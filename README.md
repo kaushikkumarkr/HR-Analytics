@@ -9,7 +9,7 @@ Project Overview:
 
 - Data Preprocessing: Data preprocessing techniques are applied to prepare the dataset for analysis. This may involve feature engineering, scaling, and transformation to make it suitable for further analysis.
 
-- Dashboard Creation: The heart of the project is the creation of a visually appealing and informative dashboard using Power BI. Various charts and graphs are generated to provide a holistic view of the attrition problem, allowing stakeholders to gain insights at a glance.
+- Dashboard Creation: The heart of the project is the creation of a visually appealing and informative dashboard using "Power BI". Various charts and graphs are generated to provide a holistic view of the attrition problem, allowing stakeholders to gain insights at a glance.
 
 - Analysis and Insights: The dashboard provides a platform for data analytics or business analytics professionals to delve into the data, identify trends, and discover patterns that may be contributing to attrition within the company. It offers actionable insights to address the issue effectively.
 
