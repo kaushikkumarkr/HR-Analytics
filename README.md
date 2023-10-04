@@ -1,8 +1,5 @@
 # HR-Analytics
 
-Title: Employee Attrition Analysis Dashboard
-
-Description:
 The Employee Attrition Analysis Dashboard project is a comprehensive data analysis and visualization solution aimed at understanding and addressing attrition issues within a company. This project involves the collection, cleaning, preprocessing, and visualization of employee data to provide actionable insights through an interactive dashboard. 
 
 Project Overview:
